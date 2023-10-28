@@ -1,1 +1,1 @@
-echo MyProject
+echo Izmenenie
