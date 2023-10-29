@@ -1,1 +1,1 @@
-AnotherAnyString
+something
